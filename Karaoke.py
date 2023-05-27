@@ -1,4 +1,4 @@
-# Program to calculate the cost of karaoke and drinks at Nam's Noddle (my cousin's restaurant)
+# This program is used to calculate the cost of karaoke and drinks at Nam's Noddle (my cousin's restaurant)
 
 import math
 
