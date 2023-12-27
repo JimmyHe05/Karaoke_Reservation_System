@@ -1,5 +1,3 @@
 # Inspiration
-This is a program I made to estimate the price of drinks and karaoke at "Nam's Noddle" in Madison, the restaurant owned by my cousin.
-I personally utilized this application to keep track of the customer's current karaoke and beverage charges.
-The program will also compute the entire cost of the karaoke and beverages for the consumers.
+I developed a practical tool to estimate drink and karaoke prices at "Nam's Noodle" in Madison, a restaurant owned by my cousin. This application serves as a valuable resource for managing customer tabs, calculating real-time karaoke and beverage charges, and providing a comprehensive overview of the overall expenses for patrons. consumers.
 
