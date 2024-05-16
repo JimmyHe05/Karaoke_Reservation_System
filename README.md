@@ -1,4 +1,4 @@
 # Inspiration
-I developed a practical tool to estimate drink and karaoke prices at "Nam's Noodle" in Madison, a restaurant owned by my cousin. 
-This application serves as a valuable resource for managing customer tabs, calculating real-time karaoke and beverage charges, and providing a comprehensive overview of the overall expenses for customers.
+I developed a practical tool to keep track of the current reservation on live at "Nam's Noodle" in Madison, a restaurant owned by my cousin. 
+This tool allows me to add/delete a reservation based on room availability during a certain period of time.
 
